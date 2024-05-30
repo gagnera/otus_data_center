@@ -2,8 +2,8 @@
 ``` 
 router id 10.0.254.1
 #
-bfd#
-
+bfd
+#
 interface GE1/0/0 
  undo portswitch
  description SP1 
