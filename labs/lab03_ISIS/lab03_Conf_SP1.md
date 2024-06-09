@@ -45,7 +45,7 @@ interface GE1/0/3
  undo portswitch
  description LF2
  undo shutdown
- ip address 10.0.1.19 255.255.255.252
+ ip address 10.0.1.9 255.255.255.252
  isis enable 255
  isis circuit-type p2p
  isis circuit-level level-1
